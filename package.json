@@ -19,6 +19,5 @@
   "homepage": "https://github.com/comp426-2023-spring/a01-Diamoah#readme",
   "dependencies": {
     "minimist": "^1.2.7"
-  },
-  "devDependencies": {}
+  }
 }
